@@ -1,13 +1,15 @@
 # L.I.R.I BOT
 LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a Language Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data.
 
-<iframe src="https://drive.google.com/file/d/16BmmiswaWSoImhCl5ETis0ZGcM6EW6bA/preview" width="640" height="480"></iframe>
 
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
+## Instructions
+1. Open liri.js in Visual Studio Code
+2. Control ~  to open terminal 
+3. Navigate to the folder
+4. npm install
+5. 
 ### Prerequisites
 
 What things you need to install the software and how to install them
