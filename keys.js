@@ -1,4 +1,7 @@
-console.log('this is loaded');
+var colors = require('colors');
+
+console.log('this is loaded'.black);
+console.log("======================================================\n".rainbow)
 
 exports.spotify = {
   id: process.env.SPOTIFY_ID,
