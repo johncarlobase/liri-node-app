@@ -1,5 +1,317 @@
 
-SpotifyThis Log---------------------------------------
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  COACHELLA Stage
+
+Concert Location: Indio, CA, United States
+
+Concert Time: 04/11/2020, 7:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  COACHELLA Stage
+
+Concert Location: Indio, CA, United States
+
+Concert Time: 04/18/2020, 7:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  191 Toole
+
+Concert Location: Tucson, AZ, United States
+
+Concert Time: 04/19/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Crescent Ballroom
+
+Concert Location: Phoenix, AZ, United States
+
+Concert Time: 04/20/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Bunkhouse Saloon
+
+Concert Location: Las Vegas, NV, United States
+
+Concert Time: 04/21/2020, 9:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Slim's
+
+Concert Location: San Francisco, CA, United States
+
+Concert Time: 04/24/2020, 9:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Felton Music Hall
+
+Concert Location: Felton, CA, United States
+
+Concert Time: 04/25/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  McMenamins Ringlers Pub
+
+Concert Location: Portland, OR, United States
+
+Concert Time: 04/27/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Fortune Sound Club
+
+Concert Location: Vancouver, , Canada
+
+Concert Time: 04/28/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Neumos
+
+Concert Location: Seattle, WA, United States
+
+Concert Time: 04/29/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  The State Room
+
+Concert Location: Salt Lake City, UT, United States
+
+Concert Time: 05/01/2020, 9:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Globe Hall
+
+Concert Location: Denver, CO, United States
+
+Concert Time: 05/02/2020, 9:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Cedar Cultural Center
+
+Concert Location: Minneapolis, MN, United States
+
+Concert Time: 05/04/2020, 7:30 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Metro
+
+Concert Location: Chicago, IL, United States
+
+Concert Time: 05/05/2020, 7:30 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Horseshoe Tavern
+
+Concert Location: Toronto, , Canada
+
+Concert Time: 05/07/2020, 8:30 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Le Belmont
+
+Concert Location: Montreal, , Canada
+
+Concert Time: 05/08/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  The Middle East Restaurant and Nightclub
+
+Concert Location: Cambridge, MA, United States
+
+Concert Time: 05/09/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Bowery Ballroom
+
+Concert Location: New York, NY, United States
+
+Concert Time: 05/10/2020, 7:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  First Unitarian Church
+
+Concert Location: Philadelphia, PA, United States
+
+Concert Time: 05/12/2020, 8:30 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Union Stage
+
+Concert Location: Washington, DC, United States
+
+Concert Time: 05/13/2020, 7:30 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Kings
+
+Concert Location: Raleigh, NC, United States
+
+Concert Time: 05/14/2020, 9:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Exit/In
+
+Concert Location: Nashville, TN, United States
+
+Concert Time: 05/15/2020, 9:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Aisle 5
+
+Concert Location: Atlanta, GA, United States
+
+Concert Time: 05/17/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  One Eyed Jacks
+
+Concert Location: New Orleans, LA, United States
+
+Concert Time: 05/18/2020, 9:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Trees
+
+Concert Location: Lake Worth, TX, United States
+
+Concert Time: 05/19/2020, 7:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  White Oak Music Hall
+
+Concert Location: Houston, TX, United States
+
+Concert Time: 05/20/2020, 7:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Paper Tiger
+
+Concert Location: San Antonio, TX, United States
+
+Concert Time: 05/21/2020, 8:00 PM
+
+-----------------------------------------
+
+BANDSINTOWN LOG----------------------
+
+Concert Venue:  Parish
+
+Concert Location: Austin, TX, United States
+
+Concert Time: 05/22/2020, 8:00 PM
+
+-----------------------------------------
+
+MOVIE LOG----------------------
+
+Year: 1986
+
+IMDB Rating: 6.9
+
+Rotten Tomatoes: 55%
+
+Country: USA
+
+Language: English
+
+Plot: As students at the United States Navy's elite fighter weapons school compete to be best in the class, one daring young pilot learns a few things from a civilian instructor that are not taught in the classroom.
+
+Year: 1986
+
+Actors: Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards
+
+-----------------------------------------
+
+SPOTIFY LOG ---------------------------------------
+
+Song Name: Batter Up
+
+Artist(s) Name: Nelly
+
+Album Name: Country Grammar
+
+Preview Link: null
+
+-------------------------------------------------------
+
+SPOTIFY LOG ---------------------------------------
 
 Song Name: Total Eclipse of the Heart
 
@@ -8,5 +320,17 @@ Artist(s) Name: Bonnie Tyler
 Album Name: The Very Best Of Bonnie Tyler
 
 Preview Link: https://p.scdn.co/mp3-preview/f48d5786b2115ef778856979ab8823072c0d8a7c?cid=1e29705f32724976880c0b5e8d1d7139
+
+-------------------------------------------------------
+
+SPOTIFY LOG ---------------------------------------
+
+Song Name: True Colors
+
+Artist(s) Name: The Weeknd
+
+Album Name: Starboy
+
+Preview Link: null
 
 -------------------------------------------------------
