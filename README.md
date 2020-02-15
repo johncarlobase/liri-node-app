@@ -4,89 +4,89 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-## Instructions
-1. Open liri.js in Visual Studio Code
-2. Control ~  to open terminal 
-3. Navigate to the folder
-4. npm install
-5. 
-### Prerequisites
+## Installations.
+1. git clone https://github.com/johncarlobase/liri-node-app.git
+2. Open liri.js in Visual Studio Code
+3. Control ~  to open terminal 
+4. Interminal, Navigate to the folder
+5. npm install
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
 
-### Installing
+### What Each Command Should Do
 
-A step by step series of examples that tell you how to get a development env running
+1. `node liri.js concert-this <artist/band name here>`
 
-Say what the step will be
+   * This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
 
-```
-Give the example
-```
+     * Name of the venue
 
-And repeat
+     * Venue location
 
-```
-until finished
-```
+     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+     
+     
+ 2. `node liri.js spotify-this '<song name here>'`
 
-End with an example of getting some data out of the system or using it for a little demo
+   * This will show the following information about the song in your terminal/bash window
 
-## Running the tests
+     * Artist(s)
 
-Explain how to run the automated tests for this system
+     * The song's name
 
-### Break down into end to end tests
+     * A preview link of the song from Spotify
 
-Explain what these tests test and why
+     * The album that the song is from
 
-```
-Give an example
-```
+   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+   
+3. `node liri.js movie-this '<movie name here>'`
 
-### And coding style tests
+   * This will output the following information to your terminal/bash window:
 
-Explain what these tests test and why
+     ```
+       * Title of the movie.
+       * Year the movie came out.
+       * IMDB Rating of the movie.
+       * Rotten Tomatoes Rating of the movie.
+       * Country where the movie was produced.
+       * Language of the movie.
+       * Plot of the movie.
+       * Actors in the movie.
+     ```
 
-```
-Give an example
-```
+      * If the user doesn't type a movie in, the program will output data for the movie 'Parasite'
 
-## Deployment
+      * If you haven't watched "Parasite" then you should: 
+   
+   4. `node liri.js do-what-it-says`
 
-Add additional notes about how to deploy this on a live system
+       * It should run `spotify-this` for "Total Eclipse of the Heart" as follows the text in `random.txt`.
 
-## Built With
+## Demo 
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+https://drive.google.com/file/d/16BmmiswaWSoImhCl5ETis0ZGcM6EW6bA/view
 
-## Contributing
+### Technologies Used:
+1. DotEnv
+2. Moment
+3. Colors
+4. Axios
+5. Fs
+6. npm Spotify API
+7. npm Bandsintown API
+8. npm OMDB API
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **John Carlo Base - https://github.com/johncarlobase
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thank you to Google for the inspiration. 
+* Thank you to my 5 year old daughter for bothering her mom instead (for 3 months now). 
 
