@@ -3,87 +3,90 @@ LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and R
 
 
 
-## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## Installations.
+1. git clone https://github.com/johncarlobase/liri-node-app.git
+2. Open liri.js in Visual Studio Code
+3. Control ~  to open terminal 
+4. Interminal, Navigate to the folder
+5. npm install
 
-### Prerequisites
 
-What things you need to install the software and how to install them
 
-```
-Give examples
-```
+### What Each Command Should Do
 
-### Installing
+1. `node liri.js concert-this <artist/band name here>`
 
-A step by step series of examples that tell you how to get a development env running
+   * This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
 
-Say what the step will be
+     * Name of the venue
 
-```
-Give the example
-```
+     * Venue location
 
-And repeat
+     * Date of the Event (use moment to format this as "MM/DD/YYYY")
+     
+     
+ 2. `node liri.js spotify-this '<song name here>'`
 
-```
-until finished
-```
+   * This will show the following information about the song in your terminal/bash window
 
-End with an example of getting some data out of the system or using it for a little demo
+     * Artist(s)
 
-## Running the tests
+     * The song's name
 
-Explain how to run the automated tests for this system
+     * A preview link of the song from Spotify
 
-### Break down into end to end tests
+     * The album that the song is from
 
-Explain what these tests test and why
+   * If no song is provided then your program will default to "The Sign" by Ace of Base.
+   
+3. `node liri.js movie-this '<movie name here>'`
 
-```
-Give an example
-```
+   * This will output the following information to your terminal/bash window:
 
-### And coding style tests
+     ```
+       * Title of the movie.
+       * Year the movie came out.
+       * IMDB Rating of the movie.
+       * Rotten Tomatoes Rating of the movie.
+       * Country where the movie was produced.
+       * Language of the movie.
+       * Plot of the movie.
+       * Actors in the movie.
+     ```
 
-Explain what these tests test and why
+      * If the user doesn't type a movie in, the program will output data for the movie 'Parasite'
 
-```
-Give an example
-```
+      * If you haven't watched "Parasite" then you should: 
+   
+   4. `node liri.js do-what-it-says`
 
-## Deployment
+       * It should run `spotify-this` for "Total Eclipse of the Heart" as follows the text in `random.txt`.
 
-Add additional notes about how to deploy this on a live system
+## Demo 
 
-## Built With
+https://drive.google.com/file/d/16BmmiswaWSoImhCl5ETis0ZGcM6EW6bA/view
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+### Technologies Used:
+1. DotEnv
+2. Moment
+3. Colors
+4. Axios
+5. Fs
+6. npm Spotify API
+7. npm Bandsintown API
+8. npm OMDB API
 
-## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **John Carlo Base - https://github.com/johncarlobase
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Thank you to Google for the inspiration. 
+* Thank you to my 5 year old daughter for bothering her mom instead (for 3 months now). 
 
